@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/srinivasy369" target="blank"><img src="https://img.shields.io/twitter/follow/srinivasy369?logo=twitter&style=for-the-badge" alt="srinivasy369" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://srinivasyedida-portfolio.netlify.app/](https://srinivasyedida-portfolio.netlify.app//)
+- 👨‍💻 All of my details available at [https://srinivasyedida-portfolio.netlify.app/](https://srinivasyedida-portfolio.netlify.app//)
 
 - 📝 I regularly write articles on [http://srinivasyedida.blogspot.com/](http://srinivasyedida.blogspot.com/)
 
