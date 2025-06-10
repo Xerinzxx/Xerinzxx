@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [http://srinivasyedida.blogspot.com/](http://srinivasyedida.blogspot.com/)
 
-- 📫 How to reach me **Srinivasy369@gmail.com**
+- 📫 How to reach me **Srinivasy369@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
